@@ -1,0 +1,121 @@
+
+Clamidiasis
+
+ÍNDICE
+1. AGENTE CAUSAL (ETIOLOGÍA) 
+2. SÍNTOMAS 
+3. EPIDEMIOLOGÍA 
+4. MECANISMO DE INFECCIÓN 
+5. PERIODO DE INCUBACIÓN 
+6. MANIFESTACIONES CLÍNICAS
+6.1 URETRITIS NO GONOCÓCICA (UNG) 
+6.2 CERVICO-VAGINITIS POR CHLAMYDIA 
+7. DIAGNÓSTICO 
+8. TRATAMIENTO 
+9. COMPLICACIONES 
+10. PREVENCIÓN 
+
+La clamidiasis es una infección de transmisión sexual de origen bacteriano dada su modalidad de transmisión, que es una de las más extendidas en los países industrializados, conjuntamente con la infección por herpes y la infección por virus del papiloma humano (VPH). Es causada por la colonización, al nivel de los órganos genitales de varones y mujeres, de la bacteria intracelular gram-negativa "Chlamydia trachomatis" (la misma que es también causante del cuadro clínico denominado tracoma). Su importancia radica en la magnitud de la diseminación de esta enfermedad, las características peculiares de su presentación clínica y las complicaciones que pueden surgir a causa de una falta de diagnóstico o tratamiento o de ambos. De allí que se requiere de exámenes de laboratorio especiales para realizar el correspondiente diagnóstico de la enfermedad.
+
+1. Agente causal (etiología).
+La clamidiasis es causada por "Chlamydia trachomatis", una bacteria intracelular, cuyo modo de reproducción presenta características únicas. Esta bacteria es causante de varios cuadros clínicos importantes como:
+-Tracoma ocular: ocasionado principalmente por los serotipos A, B, Ba y C.
+-Conjuntivitis ocular que deriva en queratitis ocular (Paratracoma).
+-Neumonía.
+-Infecciones genitales y perinatales: ocasionadas por los serotipos D hasta K.
+-Linfogranuloma venéreo (LGV) y proctocolitis hemorrágica: Ocasionado por los serotipos L1, L2 y L3.
+-Raramente se le ha asociado a endocarditis, pleuritis, peritonitis, y posible periapendicitis, y también en pacientes con inmuno-comprometidos.
+
+2. Síntomas.
+Es importante reiterar que en gran número de personas la Clamidiasis puede no presentar síntomas, en caso de haberlos, estos pueden comenzar a los pocos días del contagio o hasta ocho semanas después.
+Síntomas de Clamidia en hombres:
+-Necesidad urgente de orinar.
+-Ardor al orinar.
+-Secreciones por el pene.
+-Picazón o ardor dentro del meato urinario (orificio por donde sale la orina).
+-Inflamación o dolor en los testículos.
+Síntomas de Clamidia en mujeres:
+-Flujo vaginal espeso y amarillento (pus)
+-Ardor al orinar.
+-Secreciones por la uretra (orificio por donde sale la orina)
+-Manchas o sangrado fuera de la menstruación.
+-Sangrado durante o después de las relaciones sexuales.
+-Dolor durante las relaciones sexuales.
+-Dolor en el abdomen o la pelvis.
+Cuando el contagio es por vía anal:
+-Dolor o ardor anales
+-Secreciones por el ano.
+-Dolor al defecar.
+Contagio de Clamidia por sexo oral:
+-Ardor en boca y lengua.
+-Dolor de garganta.
+-Úlceras en la boca.
+Síntomas de Clamidia en ambos sexos, independientemente del método de contagio:
+-En algunos individuos, los mismos que causa la artritis reactiva.
+
+3. Epidemiología.
+La importancia epidemiológica de la infección por Chlamydia trachomatis radica en las características clínicas que muestra, haciendo necesario el tamizaje de las poblaciones que son consideradas de riesgo, como jóvenes de ambos sexos con conductas sexuales promiscuas (se ha establecido que la enfermedad estaría presente en adolescentes y jóvenes menores de 25 años). La prevalencia de la infección alcanza al 3-5 % de hombres jóvenes que acuden a las escuelas secundarias peri-urbanas, los miembros de fuerzas armadas alcanzan un nivel de prevalencia de 10 %. 15 a 20 % en varones que acuden a clínicas especializadas en ETS.
+Cuando las estadísticas son aplicadas a mujeres se tiene que casi un 5 % de jóvenes asintomáticas de colegios secundarios se hallan infectadas. Más del 10 % de mujeres que asisten a centros de planificación familiar, también se hallan infectadas, así como más del 20 % de mujeres asistiendo a clínicas de atención de ETS.
+Los programas de diagnóstico desarrollados en algunas ciudades y condados de los Estados Unidos han logrado disminuir las cifras de prevalencia hasta en un 30 %; sin embargo, aún se requiere tamizajes más extensos dada la condición de asintomático que se puede presentar en las poblaciones motivo de estudio.
+En los países en desarrollo no se dispone de estudios continuos que permitan determinar el grado de infección en la población. Sin embargo, de los pocos estudios realizados se ha determinado que los grupos raciales afroamericano e hispano tendrían mayor riesgo. De igual manera la infección se halla fuertemente asociada a un bajo nivel socioeconómico y a un bajo nivel educativo.
+La clamidiasis es una infección que frecuentemente no va sola, se acompaña de otras enfermedades como gonorrea, infección por herpes genital, infección por mycoplasma, etc. Se ha determinado también que la existencia de un cuadro de uretritis/cervicitis condiciona un riesgo tres veces mayor de adquirir infección por VIH, al promover un proceso inflamatorio que permite la migración de células blanco, en este caso macrófagos que son los huéspedes naturales para la adquisición del virus VIH, así como la presencia de lesiones sangrantes, sobre todo en el cérvix femenino. Con respecto a esta última condición, las lesiones en el cuello uterino permiten procesos de cambio celular (displasia) que permitirían mayor daño ocasionado por el virus del papiloma humano (VPH), que se le ha identificado como responsable del cáncer de cuello uterino
+
+4. Mecanismo de infección.
+La infección por Chlamydia se produce cuando la bacteria utiliza las células para desarrollar sus ciclos de reproducción, para ello la bacteria presenta dos formas:
+- Cuerpos elementales, de un tamaño entre 300 y 400 nm, se hallan en el medio exterior (extracelulares) y están adaptados para mantenerse 'latentes' allí, son la forma infectante que se transmite de una persona a otra. Estos cuerpos elementales se unirán a la membrana celular de las células epiteliales de los órganos a ser afectados (tracto genital, gónadas, etc.), donde inducen un proceso de fagocitosis, ingresando al interior de la célula para en un tiempo de 8 a 12 horas, desde su ingreso, incrementar su tamaño, mostrar labilidad al medio externo y reorganizar su estructura. De tal modo, que el cuerpo elemental se transforma en la segunda forma de la bacteria el cuerpo reticulado.
+- Cuerpos reticulados tienen un tamaño mayor de 800 a 1000 nm, son formas no infectantes, metabólicamente activos, están adaptados a la vida intracelular y son capaces de reproducirse. La reproducción se da por fisión binaria hasta que la gran cantidad de cuerpos reticulados forma una masa denominada cuerpo de inclusión, a las 18 a 24 horas luego de las adhesión inicial los cuerpos reticulados sufren una nueva reorganización para convertirse nuevamente en cuerpos elementales. A las 36 a 40 horas, la cantidad de nuevos cuerpos elementales dentro del cuerpo de inclusión excede el número de cuerpos reticulados, la célula huésped del cuerpo de inclusión muere, liberando los nuevos cuerpos elementales que a su vez infectarán a otras células, volviendo a iniciarse el ciclo.
+
+5. Periodo de incubación.
+Se considera que la infección se puede producir entre 7 a 21 días posteriores al contacto con una persona infectada.
+
+6. Manifestaciones clínicas.
+La clamidiasis es asintomática en la mayoría de casos; sin embargo, son dos los cuadros clínicos más frecuentes asociados a la infección por esta bacteria, tanto en el hombre como en la mujer:
+
+6.1 Uretritis no gonocócica (UNG).
+Es el proceso inflamatorio de origen infeccioso localizado en la uretra masculina, denominada no gonocócica por tener signos y síntomas similares a la uretritis por gonococo, pero en ausencia del mismo. "Chlamydia trachomatis" es la principal responsable del cuadro, pero también se puede relacionar con "Ureaplasma urealyticum", "Trichomonas vaginalis" y el virus del "Herpes simplex" (HSV). Su modo de transmisión es por contacto sexual y presenta los siguientes signos y síntomas:
+El cuadro clínico, sin tratamiento, puede progresar a infecciones de órganos genitales internos (epidídimo, testículo, etc.).
+-Presencia de secreción uretral (descarga uretral) que puede ser de característica mucinoide, o muco-purulento, es decir con presencia de pus, esta secreción no es tan abundante como el caso de la gonorrea.
+-Disuria, que es la sensación de ardor y/o dolor durante la micción, que también es menos severa que en gonorrea.
+-Prurito uretral, el varón infectado refiere sensación de escozor a lo largo de la uretra.
+-Eritema del meato, caracterizada por el enrojecimiento y/o inflamación del tejido que circunda al meato urinario.
+-Exudado uretral mucoso, obtenible a la maniobra de ordeñado de la uretra.
+
+6.2 Cervico-vaginitis por Chlamydia.
+Es un proceso inflamatorio de origen infeccioso del cuello del útero (cérvix) principalmente, pero que también suele comprometer la cavidad vaginal, es reconocida también como mucocervicitis purulenta por algunos autores. Aunque puede presentarse sin síntomas (asintomático), y por ello permanecer latente en la mujer por periodos de meses y hasta años, los signos y síntomas más frecuentes de este cuadro son:
+De manera similar al cuadro homónimo en el varón la cervico-vaginitis por clamidia, sin un diagnóstico y/o un tratamiento adecuado puede progresar hacia los órganos genitales internos por simple diseminación vertical, afectando el endometrio, las trompas de Falopio y puede llegar a la cavidad abdominal originando un cuadro clínico conocido como enfermedad inflamatoria pélvica.
+-Secreción muco-purulenta que proviene del cuello uterino, de color amarillento, que es escasa, pero que puede manchar la ropa interior, a veces es confundida con el flujo vaginal fisiológico de la mujer.
+-Dispareunia, que se refiera al dolor de origen patológico, perceptible por la mujer durante las relaciones sexuales, que en este cuadro clínico se puede acompañar por sangrado post-coital.
+-Disuria
+-Sangrado intermenstrual
+-El examen con un espéculo vaginal permitirá apreciar edema del cuello uterino, la presencia del exudado mucopurulento a través del orificio cervical, la ectopia cervical y la tendencia al sangrado frente al menor trauma (como la obtención de una muestra de Papanicolau).
+
+7. Diagnóstico.
+El diagnóstico de la infección se apoya en un adecuado examen físico de la persona sospechosa de portar la enfermedad, pero la confirmación del diagnóstico se da principalmente por pruebas de laboratorio:
+-Tinción de muestras de exudado; para reconocer la presencia de los cuerpos de inclusión. Sin embargo, su eficacia y practicidad no es adecuada como método de diagnóstico en grandes poblaciones.
+-Cultivo celular de Chlamydia trachomatis, no es práctica ya que requiere condiciones muy rigurosas de preparación del cultivo que solo están disponible en laboratorios de alto nivel de complejidad y su sensibilidad como prueba es variable (60-80 %).
+-Prueba de ELISA (ensayo de inmuno-absorción ligado a enzimas) para Chlamydia trachomatis, desarrollado en muestras de exudado, tiene como ventaja una gran especificidad (90-97 %) y regular sensibilidad (60-80 %), se adecua al tamizaje de grandes poblaciones.
+-Ensayos de hibridación de ADN, su utilidad es casi similar a la prueba ELISA y mantiene similares niveles de especificidad y sensibilidad, su utilidad es mayor en pruebas de diagnóstico en muestras uretrales y rectales.
+-Ensayos de amplificación de material genético, que utilizan las pruebas PCR (reacción en cadena de polimerasa) o LCR (reacción en cadena de ligasa), para ampliar el material genético de la bacteria obtenido a partir de muestras de orina y/o de secreciones. Es altamente específico y sensible, detectando hasta el 90-95% de las infecciones, es considerado el método de elección para el diagnóstico de la infección.
+
+8. Tratamiento.
+El tratamiento de la infección debe ser siempre prescrito y supervisado por un médico profesional. Los esquemas de tratamiento varían de acuerdo a los protocolos de atención de los diversos países. Sin embargo, existen características específicas de tratamiento que también son aplicables a otras enfermedades de transmisión sexual como en este caso:
+-Cumplimiento del tratamiento en su totalidad, de acuerdo a la prescripción del profesional médico, ya sea en cuanto al esquema del tratamiento y al tiempo de duración.
+-Búsqueda de la(s) pareja(s) sexual(es) de la persona infectada, a fin de considerar la necesidad del tratamiento, para así evitar la diseminación de la enfermedad.
+-Consejería para el cambio de comportamientos sexuales de riesgo.
+-Mientras el tratamiento se lleva a cabo, y no se ha tratado concomitantemente a la(s) pareja(s) sexual(es) de la persona infectada, la última deberá utilizar preservativos si desea mantener relaciones sexuales.
+También se realiza con antibióticos indicados por vía oral, pueden consistir en Azitromicina en una sola dosis o Doxiciclina en tres dosis diarias durante una semana o dos.
+Es importante no automedicarse porque solo el médico que examina al paciente es quien sabe qué medicamento es el más efectivo y en qué dosis, de acuerdo a cada caso particular.
+
+9. Complicaciones.
+Las complicaciones asociadas a la clamidiasis se presentan cuando no se ha identificado el cuadro clínico en la persona infectada, ocasionando una demora en el tratamiento que a la larga supone el compromiso de otros órganos además de los ya especificados en secciones anteriores, de igual manera la posibilidad de re-infecciones, la persistencia de conductas sexuales de riesgo y la presencia de nuevos serotipos se han considerado como causa de las complicaciones de la infección, entre ellas indicaremos:
+- En el varón: La infección puede alcanzar el epidídimo, ocasionando un proceso inflamatorio-infeccioso que a la larga puede generar disminución y/o obstrucción considerable de la luz del conducto, lo que se traduce en infertilidad, sobre todo en varones menores de 35 años. De forma similar puede haber compromiso testicular. Algunos autores refieren compromiso de la próstata, sin embargo, esta información no ha sido comprobada. La presencia de infección en la zona rectal (Proctitis), se presenta mayormente como asintomática, pero se han descrito síntomas como secreción mucosa, diarrea y rectorragia.
+- En la mujer: A diferencia de la infección en el varón, la mujer presenta complicaciones de un mayor grado de severidad y la posibilidad de tener secuelas. La diseminación vertical puede ocasionar endometritis, salpingitis que al producir inflamación de la luz de las trompas de Falopio condicionará la posibilidad de un embarazo ectópico o infertilidad en una proporción tres veces mayor que en el caso de gonorrea. El paso de la bacteria a la cavidad abdominal ocasiona un proceso inflamatorio-infeccioso crónico conocido como enfermedad inflamatoria pélvica (EIP) que se caracteriza por dolor pélvico (en abdomen bajo), uretrorragia y fiebre, cuyo tratamiento es longevo y no siempre efectivo. El cuadro puede variar desde una enfermedad leve hasta un cuadro de peritonitis pélvica. Finalmente, se ha determinado que la infección por chlamydia durante el embarazo puede causar rotura prematura de membranas y parto prematuro, además de la posibilidad de aborto.
+Es importante indicar que la madre puede transmitir la bacteria al neonato durante el momento del parto, lo que ocasionaría la presencia de infecciones conjuntivales y del tracto respiratorio. Puede perder un embarazo.
+Un cuadro clínico es la artritis reactiva que es un grupo de síntomas como artritis, dermatitis y uveítis que se presentan luego de la infección por variados gérmenes, entre ellos "Chlamydia trachomatis". Se trata de una reacción exagerada de la producción de anticuerpos por parte del sistema inmunitario, que ataca estructuras como son la cápsula articular, la piel y la úvea ocasionando su inflamación y consecuente daño.
+
+10. Prevención.
+No se dispone de una vacuna para evitar la infección por Chlamydia. El diagnóstico precoz y el tratamiento oportuno son las herramientas más importantes de la prevención. Por otro lado el establecimiento de programas de salud sexual especializados permite un adecuado control de la infección.
+La Organización Mundial de la Salud (OMS) ha establecido protocolos de tratamiento de una sola dosis para asegurar la cura de la enfermedad, pero dichos protocolos requieren de consejería adicional para el cambio de las conductas sexuales de riesgo, que no solo son eficaces para evitar la clamidiasis, sino también para evitar otras enfermedades, entre ellas la infección por VIH.
+Otra medida de prevención desarrollada en algunos países es la notificación epidemiológica de los casos diagnosticados a fin de desarrollar una búsqueda epidemiológica de otras personas contagiadas por la persona infectada, a esto se denomina búsqueda de contactos y sirve para evitar la diseminación de la enfermedad, así como la posibilidad de reinfecciones.
+Una medida de prevención fundamental y que es utilizada en los países del primer mundo es la difusión por los medios de comunicación locales acerca de esta enfermedad que tiene una incidencia mucha más grande de lo que se cree. En Estados Unidos la prevalencia de esta infección es alta entre la población adolescente y joven, esto genera algunas complicaciones de orden médico legal debido a que las pruebas de tamizaje (diagnóstico) requieren de consentimiento legal (que no puede ser otorgado por el menor) de allí la importancia de la difusión en medios masivos.
+

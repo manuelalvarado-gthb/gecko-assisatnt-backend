@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Agente LangGraph</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .container { background: #f5f5f5; padding: 20px; border-radius: 10px; margin: 20px 0; }
+        .consulta-form { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .resultado { background: #e8f5e8; padding: 15px; border-radius: 8px; margin: 10px 0; border-left: 4px solid #4CAF50; }
+        .aprobacion { background: #fff3cd; padding: 15px; border-radius: 8px; margin: 10px 0; border-left: 4px solid #ffc107; }
+        .error { background: #f8d7da; padding: 15px; border-radius: 8px; margin: 10px 0; border-left: 4px solid #dc3545; }
+        input[type="text"] { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; margin: 10px 0; }
+        button { background: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; margin: 5px; }
+        button:hover { background: #0056b3; }
+        .btn-success { background: #28a745; }
+        .btn-danger { background: #dc3545; }
+        .ejemplos { background: white; padding: 15px; border-radius: 8px; margin: 10px 0; }
+        .ejemplo { background: #f8f9fa; padding: 8px; margin: 5px 0; border-radius: 4px; cursor: pointer; }
+        .ejemplo:hover { background: #e9ecef; }
+        .flujo { background: white; padding: 15px; border-radius: 8px; margin: 10px 0; }
+        .paso { padding: 8px; margin: 5px 0; border-left: 3px solid #007bff; background: #f8f9fa; }
+    </style>
+</head>
+<body>
+    <h1>🤖 Demo Agente LangGraph</h1>
+    <p>Sistema Multi-Agente con Router, Herramientas y Human-in-the-Loop</p>
+
+    <div class="container">
+        <h2>📋 Ejemplos de Consultas</h2>
+        <div class="ejemplos">
+            <div class="ejemplo" onclick="setConsulta('Buscar información sobre inteligencia artificial')">
+                🔍 Buscar información sobre inteligencia artificial
+            </div>
+            <div class="ejemplo" onclick="setConsulta('Calcular 25 + 17 * 3')">
+                🧮 Calcular 25 + 17 * 3
+            </div>
+            <div class="ejemplo" onclick="setConsulta('¿Cuál es el clima en Barcelona?')">
+                🌤️ ¿Cuál es el clima en Barcelona?
+            </div>
+            <div class="ejemplo" onclick="setConsulta('¿Cómo estás hoy?')">
+                💬 ¿Cómo estás hoy?
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>🚀 Hacer Consulta</h2>
+        <div class="consulta-form">
+            <input type="text" id="consulta" placeholder="Escribe tu consulta aquí..." />
+            <button onclick="enviarConsulta()">Enviar Consulta</button>
+        </div>
+    </div>
+
+    <div id="resultado-container"></div>
+
+    <div class="container">
+        <h2>🔄 Flujo del Sistema</h2>
+        <div class="flujo">
+            <div class="paso">1. 🤖 <strong>Router</strong>: Analiza la consulta y decide qué herramienta usar</div>
+            <div class="paso">2. 🛠️ <strong>Herramienta</strong>: Ejecuta la acción específica (búsqueda, cálculo, clima)</div>
+            <div class="paso">3. 👤 <strong>Human-in-the-Loop</strong>: Revisión humana para ciertas operaciones</div>
+            <div class="paso">4. ✨ <strong>Resultado Final</strong>: Entrega la respuesta al usuario</div>
+        </div>
+    </div>
+
+    <script>
+        function setConsulta(texto) {
+            document.getElementById('consulta').value = texto;
+        }
+
+        async function enviarConsulta() {
+            const consulta = document.getElementById('consulta').value;
+            if (!consulta.trim()) {
+                alert('Por favor ingresa una consulta');
+                return;
+            }
+
+            const container = document.getElementById('resultado-container');
+            container.innerHTML = '<div class="resultado">🔄 Procesando consulta...</div>';
+
+            try {
+                const formData = new FormData();
+                formData.append('consulta', consulta);
+
+                const response = await fetch('/consulta', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (data.tipo === 'aprobacion_requerida') {
+                    mostrarAprobacion(data);
+                } else if (data.tipo === 'completado') {
+                    mostrarResultado(data);
+                }
+            } catch (error) {
+                container.innerHTML = '<div class="error">❌ Error al procesar la consulta</div>';
+            }
+        }
+
+        function mostrarAprobacion(data) {
+            const container = document.getElementById('resultado-container');
+            container.innerHTML = `
+                <div class="container">
+                    <h3>👤 Revisión Humana Requerida</h3>
+                    <div class="aprobacion">
+                        <p><strong>Consulta:</strong> ${data.consulta}</p>
+                        <p><strong>Tipo:</strong> ${data.tipo_consulta}</p>
+                        <p><strong>Resultado de herramienta:</strong></p>
+                        <div style="background: white; padding: 10px; border-radius: 4px; margin: 10px 0;">
+                            ${data.resultado_herramienta}
+                        </div>
+                        <p><strong>¿Aprobar este resultado?</strong></p>
+                        <button class="btn-success" onclick="aprobar('${data.session_id}', 'si')">✅ Aprobar</button>
+                        <button class="btn-danger" onclick="aprobar('${data.session_id}', 'no')">❌ Rechazar</button>
+                    </div>
+                </div>
+            `;
+        }
+
+        function mostrarResultado(data) {
+            const container = document.getElementById('resultado-container');
+            const icono = data.aprobado === false ? '❌' : '✅';
+            container.innerHTML = `
+                <div class="container">
+                    <h3>${icono} Resultado Final</h3>
+                    <div class="resultado">
+                        <p><strong>Tipo de consulta:</strong> ${data.tipo_consulta}</p>
+                        <p><strong>Resultado:</strong></p>
+                        <div style="background: white; padding: 10px; border-radius: 4px; margin: 10px 0;">
+                            ${data.resultado}
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        async function aprobar(sessionId, decision) {
+            const container = document.getElementById('resultado-container');
+            container.innerHTML = '<div class="resultado">🔄 Procesando aprobación...</div>';
+
+            try {
+                const formData = new FormData();
+                formData.append('session_id', sessionId);
+                formData.append('aprobacion', decision);
+
+                const response = await fetch('/aprobar', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+                mostrarResultado(data);
+            } catch (error) {
+                container.innerHTML = '<div class="error">❌ Error al procesar la aprobación</div>';
+            }
+        }
+    </script>
+</body>
+</html>

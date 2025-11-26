@@ -1,0 +1,179 @@
+Diagnóstico genético preimplantacional
+
+ÍNDICE
+1. PROCESO 
+1.1 PGD (PREIMPLANTATION GENETIC DIAGNOSIS): DIÁGNOSTICO DE ENFERMEDADES GENÉTICAS. 
+1.2 PGS (PREIMPLANTATION GENETIC SCREENING): DETECTAR ALTERACIONES CROMOSÓMICAS 
+1.3 DIAGNÓSTICO PRECOZ 
+2. PASOS 
+2.1 TÉCNICAS EMPLEADAS EN EL DIAGNÓSTICO GENÉTICO PREIMPLANTACIONAL
+2.1.1 PARA OBTENER EL MATERIAL GENÉTICO 
+2.1.1.1 BIOPSIA DE CUERPO POLAR 
+2.1.1.2 BIOPSIA DE BLASTÓMERO
+2.1.1.3 BIOPSIA DE TEJIDO EXTRAEMBRIONARIO 
+2.1.2 PARA ANALIZAR EL ADN 
+2.1.2.1 EN PGD SE EMPLEA PCR (REACCIÓN EN CADENA DE LA POLIMERASA)
+2.1.2.2 EN PGS SE EMPLEA FISH (HIBRIDACIÓN FLUORESCENTE IN SITU)
+3. ALTERNATIVAS 
+4. REQUISITOS OBLIGATORIOS PARA REALIZAR UN DGP
+5. OBJETIVOS Y CONCLUSIONES 
+5.1 EVITAR EL NACIMIENTO DE NIÑOS CON ENFERMEDADES 
+5.2 AYUDAR LA REPRODUCCIÓN 
+5.3 ELEGIR LAS CARACTERÍSTICAS DEL BEBE 
+6. HISTORIA DEL DIAGNÓSTICO GENÉTICO PREIMPLANTACIONAL EN ESPAÑA 
+7. POLÉMICA 
+8. LEGISLACIÓN SOBRE SELECCIÓN DEL DONANTE DE SEMEN 
+9. LEGISLACIÓN SOBRE MANIPULACIÓN GENÉTICA DEL EMBRIÓN 
+10. LEGISLACIÓN SOBRE SELECCIÓN DE EMBRIONES 
+11. FUTURO 
+
+
+El diagnóstico genético preimplantacional (DGP) es el estudio del ADN de embriones humanos para seleccionar los que cumplen determinadas características y/o eliminar los que portan algún tipo de defecto congénito. De dichos embriones se extraen biopsias celulares cuyo tamaño puede variar según el número de días de desarrollo. Una biopsia entre el día 1 o 2 permite la obtención corpúsculo polar de la segunda división meiótica (con el mismo material genético que los embriones, una en el día 3 permite la obtención de una biopsia de 2 o 3 células blastoméricas, y una en el día 5 o 6 permite la obtención de hasta 5 células provenientes del trofoectoblasto. Cada biopsia plantea sus propias
+ventajas y riesgos.
+Se realiza en tratamientos de fecundación in vitro, antes de implantar los preembriones humanos en el útero.
+Hoy día es posible analizar una o dos blastómeras de un embrión de D3 (7-8 células) sin que pierda potencial de implantación. El embrión se cultiva hasta blastocisto mientras tenemos 48 horas para analizar las blastómeras por la técnica de hibridación in situ fluorescente (FISH) o por la técnica de reacción en cadena de la polimerasa (PCR).
+Dentro del concepto del diagnóstico genético preimplantacional debemos distinguir dos conceptos importantes:
+- PGD: preimplantational genetic diagnosis. Es el diagnóstico del genotipo del embrión respecto a la presencia o no del alelo causante de una enfermedad o de la alteración cromosómica que llevan los progenitores.
+- PGS: preimplantational genetic screening. Es la selección de los embriones cromosómicamente normales de una cohorte en la que se sospecha que está elevada por encima de lo normal la proporción de embriones cromosómicamente anormales.
+
+1. Proceso.
+Antes de comenzar la nelenización genética, es necesario fecundar las fabass en el laboratorio. El proceso de la fecundación in vitro consiste en la extracción de los óvulos y fecundación de los mismos en el laboratorio, con la posterior colocación de los embriones humanos resultantes dentro de la cavidad uterina.
+
+1.1 PGD (Preimplantation Genetic Diagnosis): diagnóstico de enfermedades genéticas.
+Es el diagnóstico del genotipo del embrión respecto a la presencia o no del alelo causante de una enfermedad o de la alteración cromosómica que llevan los progenitores. Permite seleccionar un embrión sano o no portador antes de ser transferido al útero. Se trata de una alternativa al diagnóstico prenatal en parejas que no desean interrumpir el embarazo por motivos éticos o psicológicos.
+Aproximadamente el 1% de los niños nacidos sufren algún tipo de grave enfermedad genética. Según la base de datos OMIM existen más de 5000 enfermedades conocidas y la lista se continúa ampliando.
+En España, cuando una pareja tiene una enfermedad diagnosticada que puede heredar a sus descendientes es la clínica de reproducción asistida tiene la obligación de realizar el PGD.
+
+1.2 PGS (Preimplantation Genetic Screening): detectar alteraciones cromosómicas.
+Es la selección de los embriones cromosómicamente normales de una cohorte en la que se sospecha que está elevada por encima de lo normal la proporción de embriones cromosómicamente anormales. Las alteraciones cromosómicas, afectan a un número o estructura de cromosomas, y con esta técnica podemos detectar otras alteraciones causantes, entre otros, de los síndromes de Turner y de Down. Sin embargo, no es posible por motivos técnicos estudiar todos los cromosomas, por ello este tipo de estudios se centran en analizar los cromosomas que más incidencia tienen en los abortos en la población general.
+Alteraciones en los cromosomas 13, 14, 15, 16, 18, 21, 22, X e Y suponen el 70% de los abortos descritos, por los que son los estudiados en PGS.
+Entre el 0,6 y 6% de los recién nacidos presentan anomalías en el cariotipo: traslocaciones o aneuploidías. Y el 60% de los abortos espontáneos presentan alteraciones cromosómicas. De ahí la gran importancia de PGS.
+Existen etiología en la reproducción a los que se asocia un mayor riesgo de transmitir anomalías cromosómicas a la descendencia: edad avanzada, aborto de repetición, factor masculino grave, fallo de implantación... En estos casos se recomienda estudiar genéticamente los embriones mediante PGS para seleccionar los más óptimos y los que, por tanto, tendrán mayor posibilidad de implantar.
+Se calcula que el 10% de los espermatozoides y el 20% de los ovocitos son aneuploides. Y entre el 20 y el 40% de los embriones in vitro son genéticamente anormales según estudios científicos, de hecho los más recientes estudios elevan este dato incluso hasta el 50%.
+Existen adicionalmente personas que a pesar de tener alteraciones en sus cromosomas, se tratan de traslocaciones equilibradas con fenotipo normal, es decir, que no padecen ninguna enfermedad. Pero esto eleva la proporción de aneuploides entre sus embriones al 95% debido a las segregaciones anómales durante la meiosis.
+Esta técnica está indicada en:
+- Mujeres que han sufrido dos o más abortos espontáneos.
+- Edad materna avanzada: > 35 años
+- Dos o más ciclos de fecundación in vitro fallidos
+- Alteraciones de la meiosis de los espermatozoides o bajo recuento en el número de espermatozoides que se encuentran en el eyaculado
+- Parejas con gestación anterior con anomalía cromosómica
+- Fallos de implantación
+
+1.3 Diagnóstico precoz.
+Por todo lo explicado anteriormente en este apartado, resulta evidente la gran importancia de realizar un diagnóstico precoz en busca de posibles enfermedades genéticas y/o alteraciones cromosómicas.
+PGD es un tipo de diagnóstico precoz de dichas alteraciones y enfermedades, pero no es el único. A continuación se enumeran los diferentes técnicas disponibles en la actualidad para realizar ese diagnósticos precoz:
+-Diagnóstico prenatal
+-Triple prueba (11-13 semanas)
+-Biopsia corial (11-13 semanas)
+-Amniocentesis (14-16 semanas)
+-Diagnóstico preimplantacional
+-Biopsia embrionaria (Día 3 o día 6 del embrión)
+-Diagnóstico preconcepcional
+-Selección de espermatozoides
+-Biopsia de corpúsculo polar
+
+2. Pasos.
+- La mujer debe someterse a un tratamiento hormonal para estimular la ovulación.
+- A continuación los óvulos se extraen a través de la vagina mediante anestesia, del varón se obtiene esperma, y en el laboratorio se realiza la fecundación de los óvulos.
+- Mediante un análisis de las células del embrión cultivadas, se evalúa la constitución de los cromosomas y se diferencia los sanos de los enfermos. Según la opinión de los médicos que realizan estos procesos, al transferir los embriones sanos la posibilidad de conseguir un embarazo aumenta.
+- La célula para el análisis se suele obtener de un embrión humano de 8 células, ya que éste es el momento antes de que sea demasiado delicado y las células empiecen a diferenciarse (algo más de un día tras la fecundación):
+- Después de hacer un pequeño orificio sobre la membrana en fase de embrión, con una pipeta se elige una de las células, que es aspirada para su posterior análisis. Cuando un embrión humano es defectuoso genéticamente, la pareja puede donarlo para investigación o simplemente desecharlo.
+- Después de unos dos días se realiza la transferencia al útero de los embriones afortunados. Si existen embriones sobrantes y no son defectuosos, se congelan para otro ciclo, por si en este no se consigue un embarazo.
+
+2.1 Técnicas empleadas en el diagnóstico genético preimplantacional.
+2.1.1 Para obtener el material genético.
+El material genético es el ADN. Éste se puede obtener a partir de varias fuentes, que se describen a continuación:
+
+2.1.1.1 Biopsia de cuerpo polar.
+La biopsia de cuerpo polar se realiza antes de la fecundación para seleccionar los óvulos con más posibilidades de salir adelante en el embarazo. Los óvulos contienen unas células no funcionales llamados cuerpos polares, que se forman durante la meiosis y desaparecen tras la fecundación al inicio de una vida humana.
+Extraer una de estas células no afecta al futuro desarrollo del embrión, pero tiene la desventaja de que no permite detectar anormalidades que suceden después de la fecundación ni las que provengan del padre. Sin embargo, la información obtenida mediante esta técnica sí será relevante respecto al ovocito ya que detecta aneuploidías relacionadas con la calidad ovocitaria y la herencia de un enfermedad genética procedente de la madre.
+
+2.1.1.2 Biopsia de blastómero.
+Esta técnica se realiza en un embrión ya fecundado con un número de células entre 6 y 10, al tercer día después de la fecundación. Consiste en extraer una o dos células de un embrión en desarrollo, cuando estas son pluripotenciales.
+Una vez realizada la biopsia del blastómero existen dos posibilidades de estudio:
+Este procedimiento no suele afectar a la estructura del embrión ni a su desarrollo, pero es un procedimiento más invasivo que la biopsia de cuerpo polar. Además, al utilizar estructuras microscópicas el ADN puede dañarse en el proceso, y al utilizar una sola célula, el resultado puede conducir a error. Este problema se soluciona analizando 2 o más células blastómeras, pero esto pone en riesgo la salud del embrión y su supervivencia.
+Pese a sus desventajas, es el más utilizado en DGP en la actualidad ya que es el método más efectivo que se conoce para el fin de la DGP, no para la protección del niño en fase embrionaria.
+
+2.1.1.3 Biopsia de tejido extraembrionario.
+Después, los embriones llegan a la etapa de blastocito. Un blastocito está formado por una capa externa de células dentro de la cual hay una masa celular interna que dará origen al feto. Las células se toman de la capa externa para evitar un procedimiento invasivo.
+Aunque este tipo de biopsia es menos peligroso para el feto, si se utiliza esta técnica se obtienen menos embriones disponibles, ya que solo un 30-60% de los embriones puede llegar al estado de blastocito en un medio de cultivo artificial.
+Además, algunas de las células de la masa embrionaria interna pueden no ser representativas respecto al total general y dar falsos positivos de enfermedades con el mosaicismo, que se suelen corregir a las pocas semanas de desarrollo.
+
+2.1.2 Para analizar el ADN.
+
+2.1.2.1 En PGD se emplea PCR (Reacción en cadena de la polimerasa).
+En este método la blastómera es lisada y amplfiicada por PCR con los oligos diseñados para amplificar una región específica que queremos estudiar. La manipulación de la blastómera durante la biopsia y el entubado ("tubing") es crítica. Además es fundamental tomar las precauciones necesarias para amplificar el material de una única célula (dos alelos, una copia cada uno) sin contaminación de otros tipos celulares como espermatozoiedes, células de la granulosa, células del embriólogo, etc.
+El mayor riesgo de la PCR de única célula es el fenómeno de la pérdida alélica o allele drop-out (ADO). Para evitarlo es recomendable ciopsiar dos células en lugar de una sola.
+Esta técnica permite obtener, a partir de un único fragmento de ADN, muchas copias del mismo, sin necesidad de utilizar bacterias u otros seres vivos en el proceso. Esto permite identificar individuos o genes a partir de una muestra ínfima de material genético, como es el caso de la realización de un análisis de ADN.
+Para identificar los genes se recurre a la electroforesis en gel de agarosa:
+En el producto de la PCR se estudia el tamaño, RFLP, análisis de ligamiento (SNPs), secuenciación directa...
+Antes de realizar el ciclio de PCR es necesario estudiar los alelos de los progenitores y de los hijos (tanto los afectados como los sanos) para confirmar que es posible detectar el alelo asociado a la enfermedad.
+
+2.1.2.2 En PGS se emplea FISH (Hibridación fluorescente in situ).
+Esta es la técnica más avanzada hasta el momento en cuanto a detectar la localización de secuencias de ADN conocidas en los cromosomas. Utiliza sondas fluorescentes que se unen solo a aquellas partes del cromosoma con las que muestran un alto grado de similitud. Utilizando microscopía fluorescente se pueden encontrar los puntos de unión entre la sonda y el cromosoma
+Esta técnica de estudio requiere un tiempo de 24 horas durante el cual es posible realizar dos rondas de hibridación con hasta cinco cromosomas, de forma que en cada ronda se suele tener el diagnóstico. Cuando el diagnóstico es incierto se repite la hibridación con las sondas para los cromosomas que se necesitan confirmar.
+El error de un diagnóstico mediante FISH se estima en un 5%. También existe la posibilidad de encontrar mosaicismo.
+En la clínica actualmente se está empleando una forma más avanzada de FISH denominada CGH ("comparative genomic hybridization"). Con esta novedosa técnica es posible realizar un cariotipo completo del embrión. Se basa en un FISH de dos colores (rojo/verde):
+A estas técnicas hay que sumar las técnicas de hibridación genómica comparada (CGH) y microarrays, actualmente utilizados.
+
+3. Alternativas.
+Actualmente existen varias alternativas al DGP. Dos de las más importantes son:
+
+4. Requisitos obligatorios para realizar un DGP.
+En España, no se permite realizar el diagnóstico genético preimplantacional de forma abierta y accesible para todo el mundo para evitar el riesgo que de que se tienda a la eugenesia, es decir a la mejora de la especie. Por eso solo está legalizado en casos de alto riesgo.
+Si se trata de un caso en el que existe un riesgo claramente aumentado con respecto a la población general y se va a realizar una técnica de reproducción asistida es obligatorio efectuar el diagnóstico preimplantacional. Sin embargo, si en la misma situación se decide optar por un embarazo natural, en lugar de técnicas de reproducción asistida, no tiene porqué realizarse el diagnóstico preimplantacional.
+En España existen tres requisitos indispensables (salvo las excepciones que permitan los Comités de Bioética) para que se pueda realizar un diagnóstico genético preimplantacional al embrión. Se deben cumplir los tres:
+Cualquier tipo de enfermedad que no cumpla estos tres requisitos debe pasar por un Comité de Bioética y ser aprobado por este antes de poder realizar el DGP.
+En aquellos casos en los que no está permitido hacer un estudio genético, la determinación del embrión considerado como mejor candidato para ser implantado se realiza por estudios morfológicos.
+
+5. Objetivos y conclusiones.
+Sin embargo, y a pesar de lo anterior, el diagnóstico genético preimplantacional resulta muy útil para evitar enfermedades genéticas, y puede ser realizado por diferentes motivos entre los que destacan:
+
+5.1 Evitar el nacimiento de niños con enfermedades.
+Uno de los fines del diagnóstico genético preimplantatorio es el deseo de evitar el nacimiento de niños con enfermedades genéticas. Se puede evitar el nacimiento de niños con enfermedades genéticas como la hemofilia y algunos tipos de cáncer, además de enfermedades cromosómicas como el síndrome de Down o la fibrosis quística simplemente seleccionando embriones en cuyo genotipo se haya comprobado que no portan la mutación correspondiente.
+Si la madre es portadora de una enfermedad ligada al sexo, como la se puede elegir de entre sus hijos el que no sea portador para evitarla, de tal forma que sólo se le implanten embriones sanos y se produzcan embarazos normales que de otra forma tendrían muy poca posibilidad de producirse. Esta técnica es especialmente útil cuando existen antecedentes de enfermedades genéticas o cromosómicas en la familia y se realiza dentro de programas de Fecundación in Vitro.
+
+5.2 Ayudar la reproducción.
+El seleccionar a los embriones más adecuados puede ayudar a mujeres de avanzada edad o con problemas de esterilidad a llevar un embarazo a término, los otros de cualquier forma morirían.
+
+5.3 Elegir las características del bebe 
+- Mejorar la calidad de vida del resto de la familia haciendo niños al gusto y a la medida de sus deseos, niños a la carta.
+Muchos padres pueden querer un niño o una niña para que juegue con el hermano o hermana que ya tiene, o para superar la pérdida de un hijo anterior.
+- Ayudar a un hermano como donante, los otros embriones que no cumplan con esta función se congelan o donan a otras parejas que no pueden tener hijos.
+Recientemente ha habido casos de hermanos que necesitaban un trasplante y para conseguir un órgano compatible se ha recurrido a seleccionar un nuevo embrión futuro hermano que cumpla con las características necesarias.[cita requerida]
+- Crear hijos con buenas cualidades.
+Aunque todavía no se ha dado ningún caso, a través de la selección genética se pueden conseguir hijos con capacidades altas en deporte, inteligencia o físico. Sin embargo, esto plantea serios dilemas éticos que impiden que sea una práctica legal a día de hoy. Los padres pueden optar por una selección cuando ésta es referente a enfermedades congénitas que producirían malformaciones o trastornos mentales graves que alterarían seriamente la vida del embrión, pero nunca en potenciación de cualidades no relevantes para el desarrollo del ser humano (por ejemplo, la belleza, o la altura). La legislación actual precisamente por la implicación ética que plantea, no permite hacer esa selección embrionaria para conseguir dichas supuestas capacidades.
+
+6. Historia del Diagnóstico Genético Preimplantacional en España.
+Desde que en 1990 se publicaron los primeros casos de niños nacidos tras un Diagnóstico genético preimplantacional (DGP), la European Society for Human Reproduction and Embryology (ESHRE) a través de su consorcio de DGP ha recopilado anualmente los resultados y la evolución de 12397 ciclos que han dado lugar a 2027 recién nacidos hasta octubre de 2005. La primera recopilación de datos de este grupo incluyó un total de 392 ciclos de DGP realizados hasta septiembre de 1998 y la última publicación recoge un total 3358 ciclos de DGP realizados tan sólo durante el año 2004 en 45 centros adscritos, lo que muestra el aumento en el número de parejas que se someten a un tratamiento de este tipo.
+En el ámbito nacional, el departamento de Biología Celular de la Universidad Autónoma de Barcelona fue pionero en este campo, en concreto en los estudios citogenéticos mediante FISH. La primera publicación de un embarazo conseguido en España mediante DGP fue realizada de forma conjunta por este grupo y el Instituto Dexeus en 1994, en una pareja en la que la mujer era portadora de hemofilia. En 2001, en la Fundación Jiménez Diaz el Dr. Alfonso de la Fuente y la Dra. Esther Fernández (actualmente Directora Técnica de Reprogenetics Spain, S.A. Madrid) logran el primer nacimiento de un niño, hijo de un progenitor con Corea de Huntington, libre de la herencia genética que le supondría desarrollar en el futuro esta enfermedad. La aplicación de esta técnica se ha ido extendiendo a otros centros en diferentes comunidades autónomas. Y por último el avance en la genética molecular en la caracterización de mutaciones concretas de un gran número de enfermedades monogénicas, dio la posibilidad de ir añadiendo patologías al listado de aquellas enfermedades diagnosticables mediante DGP, como la Fibrosis Quística realizado por primera vez por el grupo de la UAM en colaboración con el IVI, así como la aparición de otros centros de diagnóstico tanto en Barcelona como en la Comunidad Valenciana.
+En el año 2009 se desarrolla una nueva técnica de diagnóstico genético preimplantacional que utiliza microchips, denominada aCGH (Array CGH)
+En septiembre de 2012, nace el primer bebé del mundo de un padre con una doble alteración cromosómica. Un trabajo realizado por la Clínica Eugin en colaboración con la Universidad Autónoma de Barcelona.
+
+7. Polémica.
+Las causas de la polémica que ha surgido a raíz de este tema son:
+- La utilización de la persona como un medio para conseguir un fin, ya sea la felicidad de los padres o la cura de un hermano.
+- Los embriones desechados, que, en caso de portar algún defecto, son almacenados en bancos de embriones donde se acumulan esperando a que la legislación vigente dictamine si es legal o no destruirlos. La polémica radica en que algunos consideran al embrión como un conjunto de células a la que le queda mucho para ser un ser humano. La diferenciación del ADN del embrión humano desde el mismo momento de la fecundación, con respecto a los respetivos de su padre y madre, como se demuestra empíricamente a través de la prueba de paternidad, define al embrión como una persona diferente a sus padres, y para algunos el embrión podría ser considerado ya un ser humano, como declaró un grupo de más de 1000 científicos españoles recientemente en el Manifiesto de Madrid.
+- Está discutida la ética de permitir que no se desarrolle un embrión portador de una discapacidad o enfermedad catastrófica.
+- La posibilidad de utilizar esta técnica para crear hijos con capacidades superiores a la normal, o elegir características selectivamente (sexo, color de los ojos, etc.), por el capricho de los padres, en detrimento del derecho a la vida de los demás hermanos. Por eso no es legal los procedimientos que permiten seleccionar caracteres fenotípicos no estrictamente perjudiciales.
+- Extremistas religiosos que lo podrían relacionar con la eugenesia.
+- Con este diagnóstico se puede predecir la posibilidad de padecer una enfermedad en el futuro, luego, el uso de estas técnicas puede poner en riesgo la intimidad de una persona. Si esta técnica crece, con una sola célula una aseguradora puede decidir no asegurar al individuo con el problema genético, o una empresa no contratarlo como empleado, o una pareja no aceptarlo como cónyuge, etc.
+- Esta técnica aún no es totalmente fiable y mueren muchos embriones todavía. No obstante, es una técnica que ha crecido en los últimos años y se mejora constantemente.
+
+8. Legislación sobre selección del donante de semen.
+Aunque no sea estrictamente una selección del embrión, la mitad de sus genes proceden de este, por lo que merece la pena prestar atención a este apartado:
+
+9. Legislación sobre manipulación genética del embrión.
+Tampoco es estrictamente un diagnóstico genético preimplantacional, pero, al ser una selección de genes, es necesario mencionarla:
+
+10. Legislación sobre selección de embriones 
+- Suecia: No establece ninguna prohibición legal en este campo.
+- Alemania: Prohíbe la selección de sexo del embrión cuando no exista el riesgo de transmitir una enfermedad hereditaria ligada al sexo.
+
+11. Futuro.
+El descubrimiento de ADN en el blastocele y en el medio de cultivo ha suscitado un gran interés por su posible aplicación en reproducción asistida, ya que evitaría la biopsia del embrión.
+El blastocele: es una cavidad rellena de líquido que se forma tras el proceso de segmentación, en este líquido se ha descubierto la presencia de ADN susceptible para el análisis genético, su análisis posiblemente no sea perjudicial para el embrión, ya que existe un proceso dinámico de colapso y reexpansión de esta cavidad en los embriones en cultivos previo al hatching. Además, sería una técnica ya implementada en clínica y que supondría poco esfuerzo y gasto adicional por la clínica, ya que la blastocentesis es realizada durante el procedimiento de congelación, para evitar la formación de cristales.
+El medio de cultivo donde crecen los embriones contiene una gran variedad de componentes secretados por el embrión conocido como el secretoma, donde podemos encontrar metabolitos, proteínas, interleucinas, junto a ADN embrionario, la presencia de este material genético también nos permitiría la posibilidad de realizar un análisis genético, suponiendo una fuente alternativa a la blastocentesis, que requiere un cierto grado de micromanipulación.
+Sin embargo, la precisión y confiabilidad de esta técnica se encuentra en discusión. La concordancia de los resultados genéticos obtenidos con estas pruebas no invasivas en relación con los obtenidos de embriones o muestras de biopsias, han variado considerablemente entre los diversos estudios publicados.
+Estas variaciones pueden ser debidas a problemas en el aislamiento y purificación del ADN que se encuentra en el blastocele y en el medio de cultivo ya que su concentración es baja y de poca calidad, dificultando por tanto un análisis genético y aumentando el riesgo de que el embrión permanezca sin diagnosticar después de realizar el PGT. Actualmente, no está claro que método de amplificación o aislamiento es el más apropiado para el análisis de este ADN, ya que el tamaño de muestras analizadas en estos estudios es relativamente bajo.
+Por lo que, la incertidumbre asociado a estos resultados hace que el ni-PGT solo pueda emplearse en el contexto de estudios preclínicos, los cuales nos permitira descubrir el origen de este ADN extraembrionario, junto a sus mecanismos de liberación y las posibles causas que originan esta discordancia entre los resultados, No obstante, la publicación de resultados prometedores en algunos estudios, continúan estimulando el interés en el uso de este material gen para fines genéticos y posiblemente gracias a estos avances podría ser finalmente implantado en clínica .
