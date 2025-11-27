@@ -35,7 +35,8 @@ services:
       - QDRANT_PORT=6333
       - OLLAMA_HOST=ollama
       - OLLAMA_PORT=11434
-    command: tail -f /dev/null
+    command: python src/api.py
+    restart: unless-stopped
 
 volumes:
   qdrant_storage:

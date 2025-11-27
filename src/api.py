@@ -3,10 +3,10 @@ from pydantic import BaseModel
 from typing import Optional
 import os
 import sys
-sys.path.append('/app/src')
+sys.path.append('/app')
 
-from src.rag import RAGSystem
-from src.ingestion import ingest_corpus
+from rag import RAGSystem
+from ingestion import ingest_corpus
 
 app = FastAPI(title="GECO RAG API")
 rag_system = None
